@@ -1,0 +1,2 @@
+* metaclass
+http://python.jobbole.com/85126/
